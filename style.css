@@ -1,0 +1,16 @@
+body {
+    background-image: url("/info.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 7%;
+    background-size: 40%;
+}
+
+#formDiv {
+    height: 100px;
+}
+
+.form {
+    text-align: center;
+    margin-top: 33%;
+}
