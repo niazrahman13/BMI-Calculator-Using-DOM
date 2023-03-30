@@ -1,4 +1,1 @@
-# BMI-Calculator-Using-DOM
-Made a BMI Calculator website using JavaScript DOM. Not Responsive.
-
-# Link: https://bmi-calculator-dom.netlify.app/
+Link: https://bmi-calculator-dom.netlify.app/
